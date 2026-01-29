@@ -39,15 +39,7 @@ var clips = [
         "hed" : "Can America build beautiful places again?",
         "dek" : "Ugliness has more to do with the housing crisis than you think.",
         "outlet" : "Vox",
-        "date" : "2026-01",
-        "link" :"https://www.vox.com/future-perfect/475362/yimby-movement-housing-abundance-beauty-aesthetics",
-        "tags" : "culture, policy"
-    },
-    {
-        "hed" : "Can America build beautiful places again?",
-        "dek" : "Ugliness has more to do with the housing crisis than you think.",
-        "outlet" : "Vox",
-        "date" : "2026-01",
+        "date" : "2026-01-20",
         "link" :"https://www.vox.com/future-perfect/475362/yimby-movement-housing-abundance-beauty-aesthetics",
         "tags" : "culture, policy"
     },
@@ -55,7 +47,7 @@ var clips = [
         "hed" : "The new food pyramid is lying to you",
         "dek" : "It's also a contradictory mess.",
         "outlet" : "Vox",
-        "date" : "2026-01",
+        "date" : "2026-01-09",
         "link" : "https://www.vox.com/future-perfect/474554/food-pyramid-dietary-guidelines-maha-protein",
         "tags" : "meat-less, policy"
     },
